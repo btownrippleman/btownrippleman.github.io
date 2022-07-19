@@ -1,7 +1,7 @@
 {
   "name": "react-github-pages",
   "version": "0.1.0",
-  "homepage": "https://btownrippleman.github.io/react-gh-pages",
+  "homepage": "https://github.com/btownrippleman.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
